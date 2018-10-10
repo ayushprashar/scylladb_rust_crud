@@ -1,0 +1,8 @@
+[package]
+name = "employee_crud"
+version = "0.1.0"
+authors = ["Ayush Prashar <ayush.prashar@gmail.com>"]
+
+[dependencies]
+cdrs = { version = "2.0.0-beta.3" }
+cdrs_helpers_derive = { version = "0.2.0" }
